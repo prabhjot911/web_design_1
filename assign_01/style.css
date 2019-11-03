@@ -1,0 +1,54 @@
+#outer_container{
+	width:100%;
+	float:left;
+}
+#blue{
+	width:50%;
+	float:left;
+	background-color:blue;
+	height: 10rem;
+}
+#red{
+	width:50%;
+	float:left;
+	background:red;
+    height: 10rem;
+}
+#green{
+	width:100%;
+	float:left;
+	background:green;
+    height: 10rem;
+}
+#yellow{
+	width:100%;
+	float:left;
+	background:yellow;
+	height: 10rem;
+}
+#inner_container{
+	width:100%;
+	float:left;
+	
+}
+#orange{
+	width:33.3%;
+	float:left;
+	background-color: orange;
+	height:20rem;
+}
+#purple{
+	width:33.3%;
+	float:left;
+	background-color: purple;
+	height:20rem;
+}
+#black{
+	width:33.3%;
+	float:left;
+	background-color: black;
+	height:20rem;
+}
+*{
+	box-sizing:border-box;
+}
