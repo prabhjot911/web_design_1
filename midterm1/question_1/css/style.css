@@ -1,0 +1,37 @@
+#outer_container{
+	float:left;
+	width:100%;
+}
+#blue{
+	float:left;
+	width:100%;
+	background-color: blue;
+	height:10rem;
+}
+#red{
+	float:left;
+	width:33.33%;
+	background-color: red;
+	height:25rem;
+}
+#green{
+	float:left;
+	width:33.33%;
+	background-color: green;
+	height:25rem;
+}
+#orange{
+	float:left;
+	width:33.33%;
+	background-color: orange;
+	height:25rem;
+}
+#brown{
+	float:left;
+	width:100%;
+	background-color: brown;
+	height:10rem;
+}
+*{
+	box-sizing: border-box;
+}
