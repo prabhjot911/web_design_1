@@ -1,0 +1,27 @@
+#outer_container{
+	float:left;
+	width:100%;
+}
+#red{
+	float:left;
+	width:100%;
+	background-color: red;
+	height:10rem;
+}
+#brown{
+	float:left;
+	width:25%;
+	background-color: brown;
+	height:20rem;
+}
+#blue{
+	float:right;
+	width:75%;
+	background-color:blue;
+	height:20rem;
+}
+
+
+*{
+	box-sizing: border-box;
+}
